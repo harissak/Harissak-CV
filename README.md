@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... android app and web developement
 - 🤔 I’m looking for help with ... Frontend, backend, android 
 - 💬 Ask me about ... everything
-- 📫 How to reach me: ... harissak_1991@hotmail.com   
+- 📫 How to reach me: ... harissak_1991@hotmail.com - harissak.com  
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I tried to put REDME not in all my projects to explain what is it about and also VIDEO presentations of project to give you idea what is it about. 
 -->
