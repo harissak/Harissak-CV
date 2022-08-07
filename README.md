@@ -9,7 +9,7 @@
 - 💬 Ask me about ... everything
 - 📫 How to reach me: ... harissak_1991@hotmail.com   
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...I tried to put REDME not in all my projects to explain what is it about and also VIDEO presentations of project to give you idea what is it about. 
 -->
 
 My name is Sakinovic Haris and currently I am last year student in Business Computing ( I am not sure is it real translation on englis. 
